@@ -3,19 +3,21 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-.title{
+.title, .recipe-title{
     font-size: 40px;
     font-weight: bolder;
 }
 
-
-.menu li{
+.nav{
+    background-color: greenyellow;
+}
+.menu li, .recipe-title{
     background-color: beige;
 }
 .menu a{
     font-size: 1.3rem;
 }
-.menu .odd{
+.menu .odd, .recipe-title.fancy{
     background-color: bisque;
 }
 
