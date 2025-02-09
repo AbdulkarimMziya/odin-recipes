@@ -8,6 +8,8 @@
 .title, .recipe-title{
     font-size: 40px;
     font-weight: bolder;
+    border: 5px double black;
+    padding: 5px;
 }
 
 .nav{
@@ -34,4 +36,6 @@
     text-decoration: none;
     color: black;
 }
+
+
 
